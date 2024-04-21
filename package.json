@@ -1,0 +1,30 @@
+{
+  "name": "wlund535",
+  "version": "1.0.0",
+  
+  "description": "common toolkit", 
+  "keywords": ["utils", "format", "money", "phone"], 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlund535/abckd.git"
+  },
+  "license": "ISC", 
+  "main": "index.js", 
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+	"kea8524": "^1.0.0",
+	"kea8524-one": "^1.0.0",
+  	"guzibiji": "^1.0.0",
+  	"sgobors": "^1.0.0",
+	"sgobors-one": "^1.0.0",
+  	"fjvndhch": "^1.0.0",
+	"fjvndhch-one": "^1.0.0"
+  },
+  "devDependencies": {
+    
+  }
+
+}
